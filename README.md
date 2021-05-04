@@ -12,6 +12,3 @@ As an example, we consider the currency of 1 cent, 9 cents and 19 cents. How wou
 largest currency, subtract it from the total, and determine how to get the smallest amount from that total. This method would give us the coins: 19, 1, 1, 1, 1, 1, 1, 1, 1.
 We can clearly see however, that we could simply have three coins: 9, 9, 9. We can see that the greedy algorithm is wrong in this case, which is why it is best to use another method.
 The application has been optimized to have a big O value of O(n*log2(n)).
-
-Guess: This application uses the basic idea of machine learning to build decision trees that determine if given animal characteristics are an animal. Both files, animal and guess,
-are needed to run the application.
